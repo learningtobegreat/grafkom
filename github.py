@@ -4,3 +4,4 @@ import numpy
 Command
 
 a=5
+b=5
